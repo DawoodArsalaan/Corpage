@@ -1,4 +1,4 @@
-# Starter Mern Antd Admin App , MERN Admin dashboard ,Antd Admin Template free
+# Starter Antd MERN Admin dashboard 
 
 
 ## App Features :
